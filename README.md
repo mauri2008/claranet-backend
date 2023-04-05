@@ -8,13 +8,13 @@ Projeto Backend claranet.
 
 ## Principais Libs
 
--[Express](https://expressjs.com/pt-br/)
--[Axios](https://axios-http.com/)
--[jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
--[json-server](https://github.com/typicode/json-server)
+ - [Express](https://expressjs.com/pt-br/)
+ - [Axios](https://axios-http.com/)
+ - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+ - [json-server](https://github.com/typicode/json-server)
 
 ## Execução 
- -Por NPM
+ - Por NPM
   - Instalar dependecias com comando
     -```npm install```
   - Executando backend 
